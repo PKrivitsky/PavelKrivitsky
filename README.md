@@ -1,2 +1,3 @@
 # PavelKrivitsky
-![Мое резюме](KPavel_ML.jpg)
+![Мое резюме](Resume.jpg)
+![](Resume1.jpg)
